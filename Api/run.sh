@@ -1,0 +1,2 @@
+deno run --allow-net --allow-plugin --allow-read --allow-write --importmap=import_map.json --unstable -c ./tsconfig.json ./src/app.ts
+# eno run --allow-net --allow-read="C:\Users\Samsung\Desktop\tests\Todo_lossaur\Api" --importmap=import_map.json --unstable -c ./tsconfig.json ./src/app.ts

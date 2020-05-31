@@ -1,0 +1,1 @@
+nodemon --exec "deno run --allow-net --allow-plugin --allow-read --allow-write --importmap=import_map.json --unstable -c ./tsconfig.json ./src/app.ts"
